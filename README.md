@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🔭 I’m currently working on [Covid-19](https://github.com/ronaldmg/covid-19) project;
+- 🔭 I’m currently working on [covid19-peru](https://github.com/ronaldmg/covid19-peru) project;
 
 ##### BIO
 
