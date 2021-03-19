@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**ronaldmg/ronaldmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in Lima, Perú.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Covid-19](https://github.com/ronaldmg/covid-19) project;
+
+##### BIO
+
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css` and more...
+- 🌱 I’m currently learning **React**
+- 💬 Ask me about  **php**,  **javascript**
+- 📫 How to reach me: www.ronaldmaco.xyz (in process)
+- ⚡ Fun fact: I love beer
+
+
+
+[![Twitter: Ronald Maco](https://img.shields.io/twitter/follow/wzdlanor?style=social)](https://twitter.com/wzdlanor)
+[![GitHub Ronald Maco](https://img.shields.io/github/followers/ronaldmg?label=follow&style=social)](https://github.com/ronaldmg)
